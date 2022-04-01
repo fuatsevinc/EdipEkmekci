@@ -69,8 +69,12 @@ body{
     color: white;
 }
 
-.header__p--right{
-    color: rgb(182, 68, 68);
+.p__header--right{
+    color: rgb(27, 7, 176);
+    text-size: 30px;
+    display: block;
+    float: left;
+    margin-top: 4rem;
 }
 
 .main{
@@ -188,11 +192,4 @@ hr{
     margin-top: 1rem;
     color: black;
     height: 0.3rem;
-}
-.fuat{
-    float: left;
-    width: 10rem;
-    padding: 1rem;
-    margin-left: 4rem;
-    border-radius: 50%;
 }
