@@ -29,7 +29,7 @@ body{
 }
 
 .header{
-    background: linear-gradient(to right,rgb(222, 198, 60),rgb(233, 44, 44));
+    background: linear-gradient(to right,rgb(229, 192, 7),rgb(233, 44, 44));
     width: 50rem;
     margin: auto;
     display: block;
@@ -102,7 +102,7 @@ body{
 
 .main__right{
     display: block;
-    background: linear-gradient(to right,rgb(235, 131, 145),rgb(227, 53, 59));
+    background: linear-gradient(to right,rgb(245, 186, 194),rgb(224, 73, 78));
     padding-left: 45px;
     padding-right: 45px;
     height: 70rem;
