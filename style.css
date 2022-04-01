@@ -29,7 +29,7 @@ body{
 }
 
 .header{
-    background: linear-gradient(to right,rgb(0, 92, 92),rgb(224, 248, 4));
+    background: linear-gradient(to right,rgb(222, 198, 60),rgb(233, 44, 44));
     width: 50rem;
     margin: auto;
     display: block;
@@ -85,25 +85,28 @@ body{
 
 .main__left{
     display: block;
-    width: 35%;
+    width: 40%;
     background: linear-gradient(to right,rgb(208, 209, 209),rgb(247, 213, 21));
-    height: 60rem;
+    height: 70rem;
     padding-left: 30px;
+    padding-right: 1rem;
     float: left;
     margin-bottom: 4rem;
     border-radius: 0rem 0rem 0rem 1rem;
+    text-align:justify;
 }
 
 .main__right{
     display: block;
-    background: linear-gradient(to right,rgb(122, 219, 219),rgb(120, 122, 226));
+    background: linear-gradient(to right,rgb(235, 131, 145),rgb(227, 53, 59));
     padding-left: 45px;
     padding-right: 45px;
-    height: 60rem;
+    height: 70rem;
     float: right;
-    width: 65%;
+    width: 60%;
     margin-bottom: 4rem;
     border-radius: 0rem 0rem 1rem 0rem;
+
 }
 
 .main__right h5{
