@@ -29,7 +29,7 @@ body{
 }
 
 .header{
-    background: linear-gradient(to right,rgb(229, 192, 7),rgb(233, 44, 44));
+    background: linear-gradient(to right,rgb(255, 255, 255),rgb(181, 181, 255));
     width: 50rem;
     margin: auto;
     display: block;
@@ -90,7 +90,7 @@ body{
 .main__left{
     display: block;
     width: 40%;
-    background: linear-gradient(to right,rgb(208, 209, 209),rgb(247, 213, 21));
+    background: linear-gradient(to right,rgb(255, 255, 255),rgb(191, 205, 255));
     height: 70rem;
     padding-left: 30px;
     padding-right: 1rem;
@@ -102,7 +102,7 @@ body{
 
 .main__right{
     display: block;
-    background: linear-gradient(to right,rgb(245, 186, 194),rgb(224, 73, 78));
+    background: linear-gradient(to right,rgb(255, 255, 255),rgb(163, 172, 247));
     padding-left: 45px;
     padding-right: 45px;
     height: 70rem;
