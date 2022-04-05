@@ -7,15 +7,15 @@
 a{
     text-decoration: none;
     cursor: pointer;
-    color: #1a2774;
+    color: #000000;
     text-decoration: none;
 }
 
 a:hover{
     text-decoration: none;
     cursor: pointer;
-    color: #2081c2;
-    transition: 0.5s;
+    color: #2402df;
+    
 }
 
 p{
@@ -118,11 +118,11 @@ body{
 }
 
 .main__right ul{
-    color: #faebd7;
+    color: #0f12b7;
 }
 
 .main__right p{
-    color: #faebd7;
+    color: #bbdd13;
 }
 
 h4{
@@ -145,7 +145,7 @@ h3{
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-size: 1.5rem;
-    color: #faebd7;
+    color: #090ddf;
     text-align: center;
     border-bottom: dotted 3px white;
     padding-bottom: 0.5rem;
@@ -156,40 +156,4 @@ h5{
     margin-bottom: 1rem;
     font-size: 1rem;
     
-}
-
-.project-button{
-    padding: 10px 50px 10px 50px;
-    border: none;
-    color: rgb(211, 62, 62);
-    background-color: #4380f1;
-    border-radius: 20px;
-    width: auto;
-    display: block;
-    margin-top: 1rem;
-    font-weight: 600;
-    
-
-}
-
-.project-button:hover{
-    padding: 10px 50px 10px 50px;
-    border: none;
-    color: white;
-    background-color: black;
-    border-radius: 20px;
-    width: auto;
-    display: block;
-    margin-top: 1rem;
-    cursor: pointer;
-}
-
-.project-button a{
-    color: white;
-}
-
-hr{
-    margin-top: 1rem;
-    color: black;
-    height: 0.3rem;
 }
